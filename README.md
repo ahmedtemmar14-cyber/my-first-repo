@@ -1,1 +1,1 @@
-# my-first-repo
+Hello! I am learning Git and GitHub
